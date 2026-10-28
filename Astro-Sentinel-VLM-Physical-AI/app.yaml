@@ -1,0 +1,6 @@
+name: Astro-Sentinel VLM Droid
+icon: 🤖
+description: Privacy-first VENTUNO Q droid. A local VLM labels USB-camera snapshots; NVIDIA Nemotron reasons on the text label and distance; the onboard LED matrix, buzzer, and vibro provide expressive feedback.
+
+bricks:
+  - arduino:vlm
